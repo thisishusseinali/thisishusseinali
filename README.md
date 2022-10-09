@@ -1,4 +1,4 @@
-<img src="https://github.com/thisishusseinali/thisishusseinali/blob/main/readme-caver.gif"/>
+<img src="https://github.com/thisishusseinali/thisishusseinali/blob/main/cover.gif"/>
 
 ## 🌐 Social Media:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thisishusseinali)&nbsp;
